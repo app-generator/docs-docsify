@@ -2,8 +2,6 @@
 * [Support](support.md)
 * [App Generator](app-generator.md)
 * [ 👉 Boilerplate Code](boilerplate-code/)
-  * [Flask Apps](boilerplate-code/flask.md)
-  * [Flask Dashboards](boilerplate-code/flask-dashboard.md)
-  * [Django Apps](boilerplate-code/django.md)
-  * [Django Dashboards](boilerplate-code/django-dashboard.md)
-  
+  * [ 👉 Index](boilerplate-code/)
+  * [ 👉 API Servers](boilerplate-code/api-server/)
+  * [ 👉 Django Templates](boilerplate-code/django-templates/)
