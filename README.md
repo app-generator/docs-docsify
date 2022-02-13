@@ -8,7 +8,7 @@
 
 <br />
 
-## Gitbook Migration Guide
+### Gitbook Migration Guide
 
 > Media Paths: `.gitbook/assets` moved to `docs/_media/assets` 
 

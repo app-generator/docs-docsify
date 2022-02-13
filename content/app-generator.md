@@ -6,7 +6,7 @@ The goal of this tool is to generate full-stack apps based on user choices:&#x20
 
 * Design: the user can select the UI Kit
 * Backend Framework: Flask, Django, Nodejs or Laravel
-* UI Framework: Vue, React, Svelte&#x20;
+* UI Framework: Vue, React, Svelte
 * Extra modules: Authentication type, database, payment modules etc. &#x20;
 
 ### How to use it
